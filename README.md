@@ -13,6 +13,6 @@ After that you will need to some files located in the following folders:
      * /ucp/index: session.php (things about selecting, and mysql connection), login.php (things about redirection after logingg on index.php from /ucp/index), variables.php(there you will edit the mySQL connection info)
 
 
-<b>For the Roleplay Quiz, you will need to do the following:</b><br>
+<br><b>For the Roleplay Quiz, you will need to do the following:</b><br>
 Excepting the normal database of the IBPRP, import in your mySQL DB the file from register/part-3 called 'rpquiz.sql'. After you imported the file, you will need to change your questions and your answers. There will need to be at least 10 question for the roleplay test to be fully functionable.
 
