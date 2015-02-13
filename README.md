@@ -1,8 +1,8 @@
 
 You will need to go in every file (excepting index.php and updates.php) and change the following lines:
 
-Line 12 - it's about the CSS location
-Line 13 and Line 14 - it's about JS's location
+Line 12 - it's about the CSS location<br>
+Line 13 and Line 14 - it's about JS's location<br>
 Line 31 - it's about header's location
 
 After that you will need to some files located in the following folders:
