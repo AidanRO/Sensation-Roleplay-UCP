@@ -14,5 +14,7 @@ After that you will need to some files located in the following folders:
 
 
 <br><b>For the Roleplay Quiz, you will need to do the following:</b><br>
-Excepting the normal database of the IBPRP, import in your mySQL DB the file from register/part-3 called 'rpquiz.sql'. After you imported the file, you will need to change your questions and your answers. There will need to be at least 10 question for the roleplay test to be fully functionable.
+Excepting the normal database of the IBPRP, import in your mySQL DB the file from the winrar archive called 'rpquiz.sql'. After you imported the file, you will need to change your questions and your answers. There will need to be at least 10 question for the roleplay test to be fully functionable.
+
+<br><br>This Website Interface is in Romanian language. I hope you're happy with it. If you are enough smart, you will know how to use it. <font color='red'>THIS IS NOT FOR BEGGINERS, DON'T EVEN TRY IT IF YOU ARE BEGGINER</font>
 
