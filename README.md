@@ -1,14 +1,14 @@
 
 Go in every file, and change these lines:
 
-"<link rel="stylesheet" type="text/css" href="http:// sensation-rp.com/css/static/style.css" />"
-"<img alt="header_249e0529" src="http:// sensation-rp.com/img/header/oldbanner.jpg" />"
+"<link rel="stylesheet" type="text/css" href="senasationroleplay bla bla" />"
+"<img alt="header_249e0529" src="senasationroleplay bla bla" />"
 
 to:
 
 
-"<link rel="stylesheet" type="text/css" href="http:// yoursite.yoursitetld/css/static/style.css" />"
-"<img alt="header_249e0529" src="http:// yoursite.yoursitetld/img/header/oldbanner.jpg" />"
+"<link rel="stylesheet" type="text/css" href="http://therewillbeyoursite/css/static/style.css" />"
+"<img alt="header_249e0529" src="http://therewillbeyoursite/img/header/oldbanner.jpg" />"
 
 
 And for the Roleplay Quiz, you will need to do the following:
